@@ -4,6 +4,10 @@
 
 @section('content')
     <div>
-        <p class="font-extrabold">Hlavní stránka :D </p>
+
+        <pre>Testing...</pre>
+
     </div>
+
+
 @endsection
